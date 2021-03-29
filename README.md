@@ -1,5 +1,5 @@
 # STED-Control
-Beam scanning STED microscope control software used at the Gurdon Institute, University of Cambridgge. This software has been used for the collection of data found in [Trovisco et al. eLife (2016)](https://doi.org/10.7554/eLife.17537) and [Tischler et at. EMBO J (2019)](https://doi.org/10.15252/embj.201899518).
+Beam scanning STED microscope control software used at the Gurdon Institute, University of Cambridge. This software has been used for the collection of data found in [Trovisco et al. eLife (2016)](https://doi.org/10.7554/eLife.17537) and [Tischler et at. EMBO J (2019)](https://doi.org/10.15252/embj.201899518).
 
 # Software Requirements
 * NI LabVIEW 2016, 64-bit
@@ -11,7 +11,7 @@ Beam scanning STED microscope control software used at the Gurdon Institute, Uni
 * NI PCIe 7852R FPGA DAQ card
 * NI PCIe 7841R FPGA DAQ card
 * EOPC 16 kHz resonance mirror
-* ScanLab dynAXIS XS galvonometer mirrors
+* ScanLab dynAXIS XS galvanometer mirrors
 * Lasers, optics, and optomechanics
 
 # Contact
