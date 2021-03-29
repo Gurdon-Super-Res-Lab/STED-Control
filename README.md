@@ -12,7 +12,6 @@ Beam scanning STED microscope control software used at the Gurdon Institute, Uni
 * NI PCIe 7841R FPGA DAQ card
 * EOPC 16 kHz resonance mirror
 * ScanLab dynAXIS XS galvanometer mirrors
-* Lasers, optics, and optomechanics
 
 # Contact
 For any questions / comments about this software, please use the contact form found at www.gurdonphotonics.org.
